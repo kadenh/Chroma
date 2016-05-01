@@ -1,0 +1,11 @@
+.idea
+node_modules
+bower_components
+built
+.DS_Store
+*.swp
+*.iml
+.env
+.log
+npm-debug.log
+.idea/workspace.xml
